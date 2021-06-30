@@ -21,12 +21,20 @@ RewardAcceptanceFormTitle#0,"""보수수령 화면"""
 RewardAcceptanceFormMessage#0,"""아래에서 받으실 보수를 하나만 선택해 주세요.<br><br><yellow>※선택하신 아이템이 장비 가능한지 확인해 주시길 바랍니다.<c>"""
 RewardConfirmationFormTitle#0,"""보수 상세화면"""
 RewardReceiptFormAcceptanceTitle#0,"""수취 확인"""
+<<<<<<< HEAD
 RewardReceiptFormAcceptanceMessage#0,"""아래의 아이템을 받습니다.<br>괜찮으십니까<br><br><yellow>※받으실 아이템 중에 장비할 수 없는<br>추후에 아이템 변경은 불가능하오니<br>유의해 주시길 바랍니다.<br>※계정당 1회 수령할 수 있습니다.<br>※수령하는 쉽에 주의해 주세요.<c>"""
+=======
+RewardReceiptFormAcceptanceMessage#0,"""아래의 아이템을 받습니다.<br>괜찮으십니까?<br><yellow>※받으실 아이템 중에 장비할 수 없는<br>아이템이 있을 경우 추후에 변경은 불가능하니<br>유의해 주시길 바랍니다.<br>※계정당 1회 수령할 수 있습니다.<br>※수령하는 쉽에 주의해 주세요.<c>"""
+>>>>>>> upstream/KO_Reboot
 RewardReceiptFormPurchaseTitle#0,"""구입 확인"""
 RewardReceiptFormPurchaseMessage#0,"""아래의 아이템을 $(2)$(0)으로 구입합니다.<br>괜찮으십니까?<br><br>（소지 SG：$(1)）"""
 RewardReceiptFormTierPurchaseMessage#0,"""아래의 아이템을 $(2)$(0)으로 구입합니다.<br>괜찮으십니까?<br><br>（소지 SG：$(1)）<br>구입 전 티어：$(3)<br>구입 후 티어：$(4)"""
 RewardUpTicketFormTitle#0,"""아이템 구매확인"""
+<<<<<<< HEAD
 RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG 소비 콘텐츠<c><br>선택한 기능의 이용권을 가지고 있지 않거나<br>이용 기한이 지났습니다.<br><br><yellow>「미션패스 골드 이용권」<c>을 구입해서<br>곧바로 기능을 활성화 할 수 있습니다.<br>구입 확인 화면으로 진행하시겠습니까?<br><br><red>※개별 기능 티켓을 원하시면<br>메인 메뉴「SG 샵」에서 구입해 주세요.<c>"""
+=======
+RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG 소비 컨텐츠<c><br>선택한 기능의 이용권을 가지고 있지 않거나<br>이용 기한이 지났습니다.<br><br><yellow>「미션패스 골드 이용권」<c>을 구입해서<br>곧바로 기능을 활성화 할 수 있습니다.<br>구입 확인 화면으로 진행하시겠습니까?<br><br><red>※개별 기능 티켓을 원하시면<br>메인 메뉴「SG 샵」에서 구입해 주세요.<c>"""
+>>>>>>> upstream/KO_Reboot
 RewardGetEffectTitle#0,"""보수를 받았습니다."""
 ExtraModeStratLineMessage#0,"""티어가 최대치입니다.<br>오버 런 모드를 해제합니다."""
 TierUpToastMessage#0,"""미션패스의 티어가 상승했습니다."""
@@ -38,7 +46,11 @@ TierBuyToastMessage#0,"""티어를 구입했습니다."""
 GoldPassBuyToastMessage#0,"""미션패스 골드 이용권을 구입했습니다."""
 DefaultSeasonTitle#0,"""시즌 타이틀"""
 GoldPassInfoMessage#0,"""골드 보수를 받으시려면 「미션패스 골드 이용권」으로 해방할 필요가 있습니다."""
+<<<<<<< HEAD
 GoldPassInfoMessage2#0,"""「미션패스 골드 이용권」의 해방이 완료되었습니다."""
+=======
+GoldPassInfoMessage2#0,"""「미션패스 골드 이용권」 해방이 완료되었습니다."""
+>>>>>>> upstream/KO_Reboot
 ErrorMessageTitle#0,"""메시지"""
 ErrorMessageTitle2#0,"""미션패스"""
 ErrorMessageTierBuy#0,"""티어 구입에 실패했습니다."""
@@ -56,7 +68,11 @@ RewardAcceptanceForm_other#0,"""･･･그 외 $(0)개"""
 ErrorMessageGeneral2#0,"""예기치 못한 에러가 발생했습니다."""
 MP_Error_Inventorylimit#0,"""아이템 팩의 공간이 부족<br>또는 소지 수 한계를 초과해서<br>아이템을 받을 수 없었습니다."""
 RewardDetailsFormMessage#0,"""아래가 받을 수 있는 보수입니다.<br><yellow>※그룹 보수 중에서 1가지 선택 가능합니다.<c>"""
+<<<<<<< HEAD
 RewardReceivingFormMessage1#0,"""이 티어에서 받을 수 있는 보수를 확인해 주세요.<br><yellow>※보수는 1그룹만 선택할 수 있습니다.<c><br><yellow>※선택하신 아이템이 장비 가능한지 확인해 주시길 바랍니다.<c>"""
+=======
+RewardReceivingFormMessage1#0,"""이 티어에서 받을 수 있는 보수를 확인해 주세요.<br><yellow>※보수는 1그룹만 선택할 수 있습니다.<c><br><yellow>※선택한 아이템이 장비 가능한지 꼭 확인해 주세요.<c>"""
+>>>>>>> upstream/KO_Reboot
 RewardReceivingFormMessage2#0,"""이 티어에서 받을 수 있는 보수를 확인해 주세요."""
 TakeText#0,"""받기"""
 MP_PopupMessage#0,"""선택식 보수가 있습니다."""

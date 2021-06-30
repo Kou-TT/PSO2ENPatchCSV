@@ -1,4 +1,5 @@
 Title#0,"""플레이 실적"""
+<<<<<<< HEAD
 Player#0,"""플레이어 기록"""
 Quest#0,"""퀘스트 기록"""
 RareItem#0,"""레어 아이템 획득 이력"""
@@ -41,3 +42,12 @@ EnemyLevel#1,"""$(0)"""
 TitleQuestName#1,"""퀘스트 이름"""
 TitleAchievement#0,"""달성 상황"""
 TitleGetPoint#0,"""획득 CP"""
+=======
+TitleQuestTotal#0,"""퀘스트 클리어 횟수"""
+TitleMissCount#0,"""전투 불능 횟수"""
+TitlePlayTimeTotal#0,"""총 플레이 시간"""
+Count#0,"""$(0)회"""
+PlayTime#0,"""$(0)시간 $(1)분"""
+TitlePlayTime_Classic#0,"""『PSO2』 플레이 시간"""
+TitlePlayTime_Reboot#0,"""『PSO2：NGS』 플레이 시간"""
+>>>>>>> upstream/KO_Reboot
